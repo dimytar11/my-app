@@ -1,0 +1,18 @@
+$background: rgb(179, 255, 190);
+$main-color: rgb(88, 88, 88);
+$secondary-color: rgb(11, 49, 17);
+
+.header {
+  height: 10vh;
+  background-color: $background;
+  display: flex;
+  align-items: center;
+}
+
+.title {
+  margin: 0 50px;
+  color: $main-color;
+  flex: 1;
+}
+
+
